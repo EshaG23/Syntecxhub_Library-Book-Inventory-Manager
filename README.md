@@ -1,5 +1,9 @@
 # Library Book Inventory Manager
 
+LINKEDIN POST LINK
+https://www.linkedin.com/posts/esha-ghosh_github-eshag23syntecxhublibrary-book-inventory-manager-share-7471089169990119425-DRg9/?utm_source=share&utm_medium=member_ios&rcm=ACoAAFFbqJMB3C11ce_6iHE3z-F1nQd6d4mvOkg
+
+
 ## Project Overview
 
 The **Library Book Inventory Manager** is a console-based Python application designed to manage a library's book inventory efficiently. The system allows staff members to add, delete, search, and manage books, while customers can register, log in, borrow books, return books, and view their borrowing history.
